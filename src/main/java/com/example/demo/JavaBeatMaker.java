@@ -6,7 +6,6 @@ import java.io.IOException;
 import java.util.concurrent.TimeUnit;
 
 public class JavaBeatMaker {
-
     // File paths for sound samples
     private static final String KICK_PATH = "07_Kick_03_SP.wav";
     private static final String SNARE_PATH = "07_Snare_01_SP.wav";
